@@ -1,5 +1,7 @@
 # Axel Bot
 
+IMPORTANT: If you are interested in this code, you should be using the newer [git-bot](https://github.com/ghseeli/git-bot) instead.
+
 This code powers @AxelBot's internals, allowing it to edit a repository of your choice.
 
 ## Directions/Usage
